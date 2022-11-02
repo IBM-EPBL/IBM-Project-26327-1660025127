@@ -44,7 +44,7 @@ SONA COLLEGE OF TECHNOLOGY
 
 
 
-## Assignment  
+## Assignments  
 
  - [Team Leader : GOKUL KRISHNAN T](https://github.com/IBM-EPBL/IBM-Project-26327-1660025127/tree/main/Assignments/Team%20Leader%20Gokul%20Krishnan%20T)
  - [Team member : ARLA VENKAT ROYAL](https://github.com/IBM-EPBL/IBM-Project-26327-1660025127/tree/main/Assignments/Team%20Member%20ARLA%20VENKAT%20ROYAL)
