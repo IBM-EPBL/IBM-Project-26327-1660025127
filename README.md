@@ -62,7 +62,7 @@ SONA COLLEGE OF TECHNOLOGY
 
 **Frontend:** Html+Css+JavaScript
 
-**Backend:** Python, Flask , Docker
+**Backend:** PHP, MYSQL
 
 **Database:** IBM DB2
 
