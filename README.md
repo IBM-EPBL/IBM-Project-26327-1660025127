@@ -60,7 +60,7 @@ SONA COLLEGE OF TECHNOLOGY
 
 ## Tech Stack
 
-**Frontend:** Html+Css+JavaScript
+**Frontend:** Html+Css+Bootstrap 4+JavaScript
 
 **Backend:** PHP, MYSQL
 
